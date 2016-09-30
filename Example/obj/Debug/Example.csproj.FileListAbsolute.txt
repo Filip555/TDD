@@ -1,0 +1,5 @@
+C:\Users\Filip555\Desktop\github\DependencyInjection\Example\Example\bin\Debug\Example.exe
+C:\Users\Filip555\Desktop\github\DependencyInjection\Example\Example\bin\Debug\Example.pdb
+C:\Users\Filip555\Desktop\github\DependencyInjection\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\Filip555\Desktop\github\DependencyInjection\Example\Example\obj\Debug\Example.exe
+C:\Users\Filip555\Desktop\github\DependencyInjection\Example\Example\obj\Debug\Example.pdb
